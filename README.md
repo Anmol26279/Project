@@ -1,3 +1,3 @@
 # Project file
 
-This is project file.
+This is my first github project.
